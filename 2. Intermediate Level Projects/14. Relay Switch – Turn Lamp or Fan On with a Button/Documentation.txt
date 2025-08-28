@@ -1,0 +1,11 @@
+How it works:
+
+ • An LED is connected to the Arduino.
+
+ • Arduino gives current to the LED → it turns ON.
+
+ • After 1 second, Arduino stops the current → LED turns OFF.
+
+ • This process keeps repeating automatically.
+
+ • So, the LED looks like it's blinking every second.
